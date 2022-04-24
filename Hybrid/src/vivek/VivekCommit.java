@@ -8,6 +8,7 @@ public class VivekCommit
 	public void demo()
 	{
 		System.out.println("hi");
+		System.out.println("bye");
 	}
 
 }
